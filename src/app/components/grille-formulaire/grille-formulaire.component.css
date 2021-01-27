@@ -1,0 +1,13 @@
+.moitie-gauche {
+  width: 49%;
+  margin-right: 1%;
+}
+
+.moitie-droite {
+  width: 49%;
+  margin-left: 1%;
+}
+
+.plein {
+  width: 100%;
+}
